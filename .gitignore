@@ -1,0 +1,9 @@
+# Build files
+/target
+
+# Project files
+files/*
+config.yml
+
+# LLM files
+ggml-vicuna*
